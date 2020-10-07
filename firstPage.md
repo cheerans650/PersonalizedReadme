@@ -1,5 +1,8 @@
  # Sreeragh M:smiley:
 
+
+  
+  
   <img align="left" alt="Sreeragh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
   <img align="left" alt="Sreeragh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -25,12 +28,27 @@
 
 **Languages and Tools:**  
 
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheerans650&theme=radical&hide=glsl,python" />
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheerans650&theme=radical&hide=glsl,python" />
 <img src="https://github-readme-stats.vercel.app/api?username=cheerans650&&show_icons=true&theme=radical&line_height=27&v=5" alt="Sreeragh's GitHub Stats" />
 
+
+## About Me:
+
+<p>
+  <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
+</p>
+Programing ❤️| Computer Science 💙| Games 💚
+
+I'm from Kerala
+
+I studied Python 
+
+
+Programmer who makes some kludges.
+### Trying to study the coding now
+
+</div>
+
+⭐️ From [Sreeragh](https://github.com/cheeran650)
 
 
